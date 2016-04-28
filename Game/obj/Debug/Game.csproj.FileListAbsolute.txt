@@ -1,0 +1,9 @@
+F:\Game\Game\Game\bin\Debug\Game.exe.config
+F:\Game\Game\Game\bin\Debug\Game.exe
+F:\Game\Game\Game\bin\Debug\Game.pdb
+F:\Game\Game\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+F:\Game\Game\Game\obj\Debug\Game.Properties.Resources.resources
+F:\Game\Game\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+F:\Game\Game\Game\obj\Debug\Game.exe
+F:\Game\Game\Game\obj\Debug\Game.pdb
+F:\Game\Game\Game\obj\Debug\Game.Window.resources

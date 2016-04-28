@@ -1,0 +1,14 @@
+F:\Game\Game\Game\bin\x64\Release\Game.exe.config
+F:\Game\Game\Game\bin\x64\Release\Game.exe
+F:\Game\Game\Game\obj\x64\Release\Game.Window.resources
+F:\Game\Game\Game\obj\x64\Release\Game.Properties.Resources.resources
+F:\Game\Game\Game\obj\x64\Release\Game.csproj.GenerateResource.Cache
+F:\Game\Game\Game\obj\x64\Release\Game.exe
+F:\Game\Game\Game\obj\x64\Release\Game.csprojResolveAssemblyReference.cache
+E:\Game\Game\Game\bin\x64\Release\Game.exe.config
+E:\Game\Game\Game\obj\x64\Release\Game.exe
+E:\Game\Game\Game\bin\x64\Release\Game.exe
+E:\Game\Game\Game\obj\x64\Release\Game.csprojResolveAssemblyReference.cache
+E:\Game\Game\Game\obj\x64\Release\Game.Window.resources
+E:\Game\Game\Game\obj\x64\Release\Game.Properties.Resources.resources
+E:\Game\Game\Game\obj\x64\Release\Game.csproj.GenerateResource.Cache
